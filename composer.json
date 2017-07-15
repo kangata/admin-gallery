@@ -1,0 +1,16 @@
+{
+    "name": "quetzalarc/admin-gallery",
+    "license": "MIT",
+    "description": "Album & photo admin tool with UIkit for Laravel.",
+    "authors": [
+        {
+            "name": "Ata",
+            "email": "quetzalskeith@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "intervention/image": "^2.3",
+        "intervention/imagecache": "^2.3"
+    }
+}
